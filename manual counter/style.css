@@ -1,0 +1,36 @@
+*,
+*::before,
+*::after {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+main{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2 {
+    font-size: 3rem;
+}
+.value{
+    font-size: 9rem;
+    font-weight: bold;
+}
+.btns{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+button{
+    padding: .5em 1.4em;
+    outline: none;
+    font-weight: bold;
+}

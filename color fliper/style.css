@@ -1,0 +1,25 @@
+main{
+    text-align: center;
+    font-family: sans-serif;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    border: 3px solid Black;
+    margin-bottom: 2rem;
+    padding: 1rem;
+}
+.change{
+    padding: .7em 1em;
+    font: bold 1.2rem sans-serif;
+    border: 3px solid #000;
+    cursor: pointer;
+}
+.color{
+    font-weight: bold;
+    text-decoration: underline;
+}
