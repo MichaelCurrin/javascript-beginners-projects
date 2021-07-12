@@ -15,3 +15,8 @@ to download and see all the projects on your local machine then
 
 now you can open the folder on VScode or whatever and read or edit them
 I'll add new projects when I have some ideas or if you have ones then send a pull request
+
+**Notes**
+those projects may not be responsive, it's because i'm focusing on the Js part not media queries
+and remember, just make it works fine
+
