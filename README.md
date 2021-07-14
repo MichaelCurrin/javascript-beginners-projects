@@ -1,6 +1,6 @@
 # javascript-beginners-projects
 ## hello world
-in this repo I'll work on some simple projects in range beginners-intermediate level, in every folder, you will find `index.html` for **html** file (wow, like you didn't know) **css** and **Js** files. in case you want to take the challenge and make it before you saw the code then you have to read the `description.md` file, It's a description of the project and how it'll be like
+in this repo I'll work on some simple projects in range beginners-intermediate level, in every folder, you will find `index.html` for **html** file (wow, like you didn't know) **css** and **Js** files. in case you want to take the challenge and make it before you saw the code then you have to read the `README.md` file, It's a description of the project and how it'll be like
 >it's not necessary to have the same code as mine, maybe yours is cleaner, and don't focus on that now ***Just make it works***
 
 ## usage
